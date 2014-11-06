@@ -6,7 +6,7 @@
 <h3><strong>Basic Programming</strong><a href="https://github.com/CHS-robotics/Basic_Programming"> /CHS-robotics/Basic_Programming</a></h3>
 <br>
 <h3><strong>Robots</strong><a href="https://github.com/CHS-robotics/Robots"> /CHS-robotics/Robots</a></h3
-<a href="https://github.com/CHS-robotics/Robots/tree/master/Ultrasonic">Basic Ultrasonic Guidence</a>
+<a href="google.ca">Basic Ultrasonic Guidence</a>
 <br>
 <a href="https://github.com/CHS-robotics/Robots/tree/master/Ultrasonic">Basic Ultrasonic Guidence</a>
 <br>
