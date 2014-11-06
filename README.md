@@ -1,7 +1,7 @@
 <strong>CHS Robitcs - Unoffical Github </strong>
 <br>
 <h1>Examples and Code</h1>
-<h3><strong>Robots</strong><a href="https://github.com/CHS-robotics/Robots">Parent</a></h3>
+<h3><strong>Robots</strong><a href="https://github.com/CHS-robotics/Robots"> /Robots</a></h3>
 <a href="https://github.com/CHS-robotics/Robots/tree/master/Ultrasonic">Basic Ultrasonic Robots</a>
 <br>
 <h1>Libraries</h1>
