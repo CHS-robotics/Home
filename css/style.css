@@ -152,6 +152,7 @@ img {
 	margin: 0 auto;
 	padding: 54px 40px;
 }
+
 h1 {
 	color: #3e3e3e;
 	font-size: 30px;
@@ -165,6 +166,14 @@ h2 {
 	font-weight: normal;
 	line-height: 24px;
 	margin: 0 0 12px;
+}
+h4 {
+	color: #433250;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 12px;
+	margin: 0 0 6px;
+
 }
 p {
 	color: #585858;
