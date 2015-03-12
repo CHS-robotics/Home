@@ -1,3 +1,3 @@
-# Home
-A place for the readme and links to usefull things
-Test
+<strong>CHS Robotics - Unofficial Github </strong>
+<br>
+<h1><strong>Welcome to the CHS Robotics Github</strong></h1>
